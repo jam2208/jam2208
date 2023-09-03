@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 
-![Static Badge](https://img.shields.io/badge/jam2208-Hello_GitHub-blue)
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Static Badge](https://img.shields.io/badge/jam2208-Hello_GitHub-blue)
 
 ###  :octocat: 안녕하세요! 박준우(junwoo park)입니다.
 - 🔭 현재 KEPCO Boot Camp 2기로 활동중!!
