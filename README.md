@@ -1,4 +1,4 @@
-### Hi there 👋
+## jam2208의 개발공간 👋
 
 <!--
 **jam2208/jam2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# jam2208의 개발공간
+###  :octocat: 안녕하세요! 박준우(junwoo park)입니다.
+- 🔭 현재 KEPCO Boot Camp 2기로 활동중!!
+- 🌱 광주 인공지증 사관학교 2기 수료!
+- 👯 기계공학 전공
+- 🤔 IT 계열로 이직 준비중
