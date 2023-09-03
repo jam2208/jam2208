@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/jam2208-Hello_GitHub-blue)
 
 
 - 🔭 I’m currently working on ...
