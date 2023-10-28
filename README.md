@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ###  :octocat: 안녕하세요! 박준우(junwoo park)입니다.
 - 🔭 현재 KEPCO Boot Camp 2기로 활동중!!
 - 🌱 광주 인공지능 사관학교 2기 수료!
-- 👯 기계공학 전공
+- 👯 기계공학 전공(석사)
 - 🤔 IT 계열로 이직 준비중
