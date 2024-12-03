@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/jam2208-Hello_GitHub-blue)
 
 ###  :octocat: 안녕하세요! 박준우(junwoo park)입니다.
-- 🔭 현재 KEPCO Boot Camp 2기로 활동중!!
+- 😄 현재 ADIoT 근무 중
+- 🔭 KEPCO Boot Camp 2기 수료!
 - 🌱 광주 인공지능 사관학교 2기 수료!
 - 👯 기계공학 전공(석사)
-- 🤔 IT 계열로 이직 준비중
